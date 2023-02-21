@@ -104,11 +104,8 @@ Debido a la cantidad de registros con los que cuento y los recursos que poseo, d
  Me dirijo a la etapa final, con un estructura conformada de la siguiente manera:
                     
 | **id** |  **title**  |  **userId** | **score** |
-
 | ------------- | ------------- |
-
 | Content Cell | Content Cell | Content Cell | Content Cell |
-
 |   Content Cell | Content Cell  |Content Cell | Content Cell |
 
 
@@ -207,4 +204,4 @@ Especial agradecimiento a mis compañeros del Cohorte 7, que fueron y son un gra
 ### <h1 align=center> CARLA CARRASCO.</h1>
 
 
-[![](https://techcrunch.com/wp-content/uploads/2020/12/HENRY-ILUSTRACION-2.jpg?w=1390&crop=1)](http://https://techcrunch.com/wp-content/uploads/2020/12/HENRY-ILUSTRACION-2.jpg?w=1390&crop=1)}
+[![](https://techcrunch.com/wp-content/uploads/2020/12/HENRY-ILUSTRACION-2.jpg?w=1390&crop=1)](http://https://techcrunch.com/wp-content/uploads/2020/12/HENRY-ILUSTRACION-2.jpg?w=1390&crop=1)
