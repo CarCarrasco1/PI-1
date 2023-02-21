@@ -24,6 +24,7 @@ Para dar una idea al lector, voy a comentar antes de comenzar el desarrollo del 
 		Transformaciones: Es necesario realizar trabajo de Data Engenieer, con las bases de datos proporcionadas realizar un modelado y limpieza de los datos.
 
 		Desarrollo de una API: Con el fin de disponibilizar los datos de la empresa usando el framework FastAPI.
+		
 		Deployment: Cargar los archivos creados, para que todos los usuarios puedan acceder de manera sencilla a ellos.
 
 		Análisis exploratorio de los datos: Establecer un plan de manejo para descubrir puntos importantes para desarrollar un modelo de Machine Learning.
@@ -104,7 +105,7 @@ Debido a la cantidad de registros con los que cuento y los recursos que poseo, d
  Me dirijo a la etapa final, con un estructura conformada de la siguiente manera:
                     
 | **id** |  **title**  |  **userId** | **score** |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | Content Cell | Content Cell | Content Cell | Content Cell |
 |   Content Cell | Content Cell  |Content Cell | Content Cell |
 
