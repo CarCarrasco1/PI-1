@@ -31,7 +31,7 @@ Para dar una idea al lector, voy a comentar antes de comenzar el desarrollo del 
 
 		Sistema de recomendación: El objetivo final es plantear la solución al problema con este sistema, debe quedar funcional y amigable, a punto de consumir.
 
-		Video: Se encontrará la documentación en forma visual, para que sea f\'e1cil y r\'e1pida de entender y explorar.
+		Video: Se encontrará la documentación en forma visual, para que sea fácil y rápida de entender y explorar.
 
 
 ## **DESARROLLO**
